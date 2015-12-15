@@ -173,7 +173,7 @@ Header|Format|Description
 
 #### Example
 
-	GET {uri}
+	GET https://www.concursolutions.com/net2/oauth2/accesstoken.ashx
 	Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
 	X-ConsumerKey: hj7683jslks93lalkjss93
 
